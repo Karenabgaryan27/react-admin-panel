@@ -1,0 +1,18 @@
+// PARTIALS
+@import "./partials/features";
+@import './partials/basic';
+@import './partials/structure';
+
+// COMPONENTS
+@import '../components/header/header';
+@import '../components/navbar/navbar';
+@import '../components/sidebar/sidebar';
+
+// PAGES
+@import '../pages/home/home';
+@import '../pages/profile/profile';
+@import '../pages/error/error';
+
+// REST
+@import '../assets/fonts/fonts';
+
